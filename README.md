@@ -1,4 +1,4 @@
-# Building a SwiftUI with Coordiantor Pattern
+# Building a SwiftUI with Coordinator Pattern
 
 the project was build with the following:
 - iOS 26+
